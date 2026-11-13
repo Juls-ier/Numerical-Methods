@@ -1653,27 +1653,27 @@ double styczne(double(*f)(double), double(*fp)(double), double x0, double eps, i
 int main(){
 
 
-    double a = 0;
-    double b = 4;
+ //   double a = 0;
+ //   double b = 4;
 
-    double eps = 1e-5;
+//    double eps = 1e-5;
 
-    int max_iter = 100;
-
-
-
-    double x0;
-    std::cout << " podaj pkt x0 : ";
-    std::cin >> x0;
+ //   int max_iter = 100;
 
 
-    sieczne(f,fp,x0, x0-0.1, eps, max_iter);
 
-    std::cout<<std::endl;
+  //  double x0;
+   // std::cout << " podaj pkt x0 : ";
+  //  std::cin >> x0;
 
-    styczne(f, fp,  x0, eps, max_iter);
 
-    bisekcja(f,fp,  a, b, eps, max_iter);
+ //   sieczne(f,fp,x0, x0-0.1, eps, max_iter);
+
+ //   std::cout<<std::endl;
+
+  //  styczne(f, fp,  x0, eps, max_iter);
+
+  //  bisekcja(f,fp,  a, b, eps, max_iter);
 
 
 
@@ -1978,7 +1978,7 @@ int main(){
     mesh.wypisz_uklad();*/
    // gauss(mesh.uklad, mesh.count);
    // gauss_pivot(mesh.uklad, mesh.count);
-    std::cout << std::endl;
+   // std::cout << std::endl;
    // gauss(mesh.uklad, mesh.count);
 
     //std::cout << std::endl;
