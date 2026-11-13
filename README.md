@@ -1,9 +1,9 @@
-# Numerical-Methods
+## Numerical-Methods
 A collection of numerical algorithms implemented in C++ as part of computational engineering coursework and personal learning.
 
 The main goal of the project was to understand the mathematical foundations of the methods and implement them from scratch
 
-# Topics Covered
+## Topics Covered
 
 # Interpolation
 
