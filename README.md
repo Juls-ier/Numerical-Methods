@@ -5,7 +5,7 @@ The main goal of the project was to understand the mathematical foundations of t
 
 # Topics Covered
 
-#Interpolation
+# Interpolation
 
 Lagrange interpolation
 
@@ -17,7 +17,7 @@ Polynomial interpolation and numerical stability
 
 Runge phenomenon
 
-#Systems of Linear Equations
+# Systems of Linear Equations
 
 Gaussian elimination
 
@@ -43,7 +43,7 @@ Gaussian quadrature
 
 Comparison with analytical solutions
 
-#Numerical Solutions of ODEs
+# Numerical Solutions of ODEs
 
 Euler method
 
@@ -53,7 +53,7 @@ Runge-Kutta 4th order (RK4)
 
 Comparison of numerical and analytical solutions
 
-#Approximation
+# Approximation
 
 Least-squares polynomial approximation
 
@@ -65,7 +65,7 @@ Three-term recurrence relation
 
 Approximation error functional
 
-#Nonlinear Equations
+# Nonlinear Equations
 
 Bisection method
 
